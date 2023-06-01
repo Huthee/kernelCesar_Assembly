@@ -1,4 +1,4 @@
-# Kernel no Cesar
+# Kernel no Cesar16i
 Olá! Bem vindo ao meu trabalho da faculdade sobre Arquitetura de Computadores.
 
 ![Screenshot_2](https://github.com/Huthee/kernelCesar_Assembly/assets/89394453/0cf782c9-5dc9-41c6-8088-36302396e523)
