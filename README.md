@@ -3,7 +3,7 @@ Olá! Bem vindo ao meu trabalho da faculdade sobre Arquitetura de Computadores.
 
 ![Screenshot_2](https://github.com/Huthee/kernelCesar_Assembly/assets/89394453/0cf782c9-5dc9-41c6-8088-36302396e523)
 
-Finalizado durante o segundo semestre de 2022, este projeto teve como intuito praticar implementar um protótipo de Kernel (boot de um processador) no processador hipotético Cesar16i. Com uma linguagem simplificada do Assembly, era preciso inicializar variáveis e funções internas como o ponteiro da pilha e do visor; programar as interruções dos periféricos e tratar o funcionamento de um timer.
+Finalizado durante o segundo semestre de 2022, este projeto teve como intuito implementar um protótipo de Kernel (boot Sis. Op.) no processador hipotético Cesar16i. Com uma linguagem simplificada do Assembly, era preciso inicializar variáveis e funções internas como o ponteiro da pilha e do visor; programar as interruções dos periféricos e tratar o funcionamento de um timer.
 
 ## Ferramentas Utilizadas:
 
